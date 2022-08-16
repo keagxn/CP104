@@ -1,0 +1,45 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Keagan McKay
+ID: 210924090
+Email: mcka4090@mylaurier.ca
+__updated__ = "2020-09-17"
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01 
+-------------------------------------------------------
+The book title is, "The Fifth Season".
+What's mine is mine, and what's yours is mine.
+"Experience is one thing you can't get for nothing." Oscar Wilde
+Three things cannot be long hidden:
+the sun,
+the moon,
+and the truth.
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter your age: 12
+Enter your favourite band: Nickleback
+I am 12 years old and my favourite band is Nickleback
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Length in miles: 12.5
+Length in km: 20.1125
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Cost of 1 burrito($): 4.49
+Number of burritos: 3
+Total cost of 3 burritos: $13.47
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Principal($): 5000
+Interest (decimal): 0.05
+Number of years: 10
+Number of times interest compounded per year: 12
+Balance: $8235.05
