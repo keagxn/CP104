@@ -1,0 +1,63 @@
+"""
+-------------------------------------------------------
+Lab/Assignment Testing
+-------------------------------------------------------
+Author:  Keagan McKay
+ID: 210924090
+Email: mcka4090@mylaurier.ca
+__updated__ = "2021-10-12"
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter mass (kg): 5
+
+Weight: 49.0 N
+Object is: average
+
+Enter mass (kg): 1
+
+Weight: 9.8 N
+Object is: light
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter a year (>0): 1999
+1999 is not a leap year
+
+Enter a year (>0): 1996
+1996 is a leap year
+-------------------------------------------------------
+t09
+-------------------------------------------------------
+Wind speed (km/h): 95
+Category: Whole Gale
+-------------------------------------------------------
+t11
+-------------------------------------------------------
+Enter the x coordinate: 5.3
+Enter the y coordinate: 7.2
+
+Category: Quadrant 1
+
+Enter the x coordinate: 0
+Enter the y coordinate: -3
+
+Category: Y-Axis
+-------------------------------------------------------
+t14
+-------------------------------------------------------
+How old are you? 25
+Price: $5.00
+
+How old are you? 92
+Price: $4.00
+
+How old are you? 12
+Are you a student at this school? (Y/N): Y
+Price: $1.00
+
+How old are you? 15
+Are you a student at this school? (Y/N): N
+Price: $3.00

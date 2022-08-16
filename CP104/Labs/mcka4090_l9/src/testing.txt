@@ -1,0 +1,41 @@
+"""
+-------------------------------------------------------
+Lab/Assignment Testing
+-------------------------------------------------------
+Author:  Keagan McKay
+ID: 210924090
+Email: mcka4090@mylaurier.ca
+__updated__ = "2021-10-12"
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter a chemical formula: H2O
+H2O is not a hydroxide.
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a product code: ATV3482S14
+Category:  ATV
+ID:        3482
+Qualifier: S14
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+Enter a string: aeiouy
+There are 5 vowels.
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+Enter a string: Python uses whitespace indentation, rather than curly brackets or keywords, to delimit blocks.
+upper case letters: 1
+lower case letters: 78
+digits: 0
+whitespace characters: 12
+-------------------------------------------------------
+t14
+-------------------------------------------------------
+Enter first string: Hello
+Enter second string: Goodbye
+Distance: -1

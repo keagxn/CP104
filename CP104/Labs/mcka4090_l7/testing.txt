@@ -1,0 +1,70 @@
+"""
+-------------------------------------------------------
+Lab/Assignment Testing
+-------------------------------------------------------
+Author:  Keagan McKay
+ID: 210924090
+Email: mcka4090@mylaurier.ca
+__updated__ = "2021-10-12"
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Guess: 50
+Too high, try again.
+Guess: 20
+Too low, try again.
+Guess: 30
+Too high, try again.
+Guess: 25
+Congratulations - good guess!
+You made 4 guesses.
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter the target: 248
+power_of_two(248) > 256
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+First positive value: 4.2
+Next positive value: 3.5
+Next positive value: 0
+Next positive value: 6.1
+Next positive value: -1
+
+minimum: 0.00
+maximum: 6.10
+total: 13.80
+average: 3.45
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+Monthly budget: $200
+Enter an expense (0 to quit): $150
+Enter another expense (0 to quit): $23
+Enter another expense (0 to quit): $12
+Enter another expense (0 to quit): $15
+Enter another expense (0 to quit): $37.50
+Enter another expense (0 to quit): $65
+Enter another expense (0 to quit): $0
+total Expenses: $302.50
+Deficit: $-102.50
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+Employee ID: 123
+Hourly wage rate: 45
+Hours worked: 46
+Net payment for employee 123: $2,125.07
+
+Employee ID: 124
+Hourly wage rate: 30
+Hours worked: 46
+Net payment for employee 124: $1,416.71
+
+Employee ID: 0
+
+Total payment:   $3,541.78
+Average payment: $1,770.89 
